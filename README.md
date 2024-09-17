@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/phạm-thanh-dũng-a076422a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phạm-thanh-dũng-a076422a4" height="30" width="40" /></a>
 <a href="https://www.facebook.com/usersilky071224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phamthanhdung.dmxtk" height="30" width="40" /></a>
 </p>
 
