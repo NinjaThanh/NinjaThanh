@@ -3,7 +3,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/143/143749.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngb4o&label=Profile%20views&color=0e75b6&style=flat" alt="phamthanhdung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NinjaThanh&label=Profile%20views&color=0e75b6&style=flat" alt="phamthanhdung" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **phamthanhdung414@gmail.com**
