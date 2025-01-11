@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm NinjaThanh</h1>
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](<p align="left"> <img src= "https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" /> </p>)
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/64/84/d5/6484d58e6a0ed40b71ff23de99e2fc83.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NinjaThanh&label=Profile%20views&color=0e75b6&style=flat" alt="NinjaThanh" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="NinjaThanh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **phamthanhdung414@gmail.com**
 <h3 align="left">Connect with me:</h3>
