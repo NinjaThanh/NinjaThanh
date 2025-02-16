@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NinjaThanh&show_icons=true&locale=en&theme=radical" alt="NinjaThanh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NinjaThanho&theme=radical" alt="NinjaThanh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NinjaThanh&theme=radical" alt="NinjaThanh" /></p>
 
