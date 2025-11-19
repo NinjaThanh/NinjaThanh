@@ -2,14 +2,19 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   
-  workflow_dispatch:      
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:       # cho phép bấm chạy tay
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # cho phép ghi lên repo
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
